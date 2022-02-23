@@ -1,0 +1,156 @@
+[submodule "LATEST/Rte"]
+	path = LATEST/Rte
+	url = git@github.com:NAAGRAAJ-HM/Rte.git
+[submodule "LATEST/BswAUTOSAR_Service_BswM"]
+	path = LATEST/BswAUTOSAR_Service_BswM
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_BswM.git
+[submodule "LATEST/BswAUTOSAR_Service_Com"]
+	path = LATEST/BswAUTOSAR_Service_Com
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_Com.git
+[submodule "LATEST/BswAUTOSAR_Service_ComM"]
+	path = LATEST/BswAUTOSAR_Service_ComM
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_ComM.git
+[submodule "LATEST/BswAUTOSAR_Service_Csm"]
+	path = LATEST/BswAUTOSAR_Service_Csm
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_Csm.git
+[submodule "LATEST/BswAUTOSAR_Service_Dcm"]
+	path = LATEST/BswAUTOSAR_Service_Dcm
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_Dcm.git
+[submodule "LATEST/BswAUTOSAR_Service_Dem"]
+	path = LATEST/BswAUTOSAR_Service_Dem
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_Dem.git
+[submodule "LATEST/BswAUTOSAR_Service_Det"]
+	path = LATEST/BswAUTOSAR_Service_Det
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_Det.git
+[submodule "LATEST/BswAUTOSAR_Service_EcuM"]
+	path = LATEST/BswAUTOSAR_Service_EcuM
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_EcuM.git
+[submodule "LATEST/BswAUTOSAR_Service_FiM"]
+	path = LATEST/BswAUTOSAR_Service_FiM
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_FiM.git
+[submodule "LATEST/BswAUTOSAR_Service_Nm"]
+	path = LATEST/BswAUTOSAR_Service_Nm
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_Nm.git
+[submodule "LATEST/BswAUTOSAR_Service_NvM"]
+	path = LATEST/BswAUTOSAR_Service_NvM
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_NvM.git
+[submodule "LATEST/BswAUTOSAR_Service_Os"]
+	path = LATEST/BswAUTOSAR_Service_Os
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_Os.git
+[submodule "LATEST/BswAUTOSAR_Service_PduR"]
+	path = LATEST/BswAUTOSAR_Service_PduR
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_PduR.git
+[submodule "LATEST/BswAUTOSAR_Service_SchM"]
+	path = LATEST/BswAUTOSAR_Service_SchM
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_SchM.git
+[submodule "LATEST/BswAUTOSAR_Service_SecOC"]
+	path = LATEST/BswAUTOSAR_Service_SecOC
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_SecOC.git
+[submodule "LATEST/BswAUTOSAR_Service_SokFm"]
+	path = LATEST/BswAUTOSAR_Service_SokFm
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_SokFm.git
+[submodule "LATEST/BswAUTOSAR_Service_StartUp"]
+	path = LATEST/BswAUTOSAR_Service_StartUp
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_StartUp.git
+[submodule "LATEST/BswAUTOSAR_Service_StbM"]
+	path = LATEST/BswAUTOSAR_Service_StbM
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_StbM.git
+[submodule "LATEST/BswAUTOSAR_Service_Vkms"]
+	path = LATEST/BswAUTOSAR_Service_Vkms
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_Vkms.git
+[submodule "LATEST/BswAUTOSAR_Service_WdgM"]
+	path = LATEST/BswAUTOSAR_Service_WdgM
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Service_WdgM.git
+[submodule "LATEST/SwcApplFoc"]
+	path = LATEST/SwcApplFoc
+	url = git@github.com:NAAGRAAJ-HM/SwcApplFoc.git
+[submodule "LATEST/SwcServiceEcuM"]
+	path = LATEST/SwcServiceEcuM
+	url = git@github.com:NAAGRAAJ-HM/SwcServiceEcuM.git
+[submodule "LATEST/SwcServiceOs"]
+	path = LATEST/SwcServiceOs
+	url = git@github.com:NAAGRAAJ-HM/SwcServiceOs.git
+[submodule "LATEST/common"]
+	path = LATEST/common
+	url = git@github.com:NAAGRAAJ-HM/common.git
+[submodule "LATEST/BswAUTOSAR_McAL_Adc"]
+	path = LATEST/BswAUTOSAR_McAL_Adc
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Adc.git
+[submodule "LATEST/BswAUTOSAR_McAL_Can"]
+	path = LATEST/BswAUTOSAR_McAL_Can
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Can.git
+[submodule "LATEST/BswAUTOSAR_McAL_Cry"]
+	path = LATEST/BswAUTOSAR_McAL_Cry
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Cry.git
+[submodule "LATEST/BswAUTOSAR_McAL_Dio"]
+	path = LATEST/BswAUTOSAR_McAL_Dio
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Dio.git
+[submodule "LATEST/BswAUTOSAR_McAL_Eep"]
+	path = LATEST/BswAUTOSAR_McAL_Eep
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Eep.git
+[submodule "LATEST/BswAUTOSAR_McAL_Eth"]
+	path = LATEST/BswAUTOSAR_McAL_Eth
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Eth.git
+[submodule "LATEST/BswAUTOSAR_McAL_Fls"]
+	path = LATEST/BswAUTOSAR_McAL_Fls
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Fls.git
+[submodule "LATEST/BswAUTOSAR_McAL_Fr"]
+	path = LATEST/BswAUTOSAR_McAL_Fr
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Fr.git
+[submodule "LATEST/BswAUTOSAR_McAL_Gpt"]
+	path = LATEST/BswAUTOSAR_McAL_Gpt
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Gpt.git
+[submodule "LATEST/BswAUTOSAR_McAL_Icu"]
+	path = LATEST/BswAUTOSAR_McAL_Icu
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Icu.git
+[submodule "LATEST/BswAUTOSAR_McAL_Lin"]
+	path = LATEST/BswAUTOSAR_McAL_Lin
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Lin.git
+[submodule "LATEST/BswAUTOSAR_McAL_Mcu"]
+	path = LATEST/BswAUTOSAR_McAL_Mcu
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Mcu.git
+[submodule "LATEST/BswAUTOSAR_McAL_Ocu"]
+	path = LATEST/BswAUTOSAR_McAL_Ocu
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Ocu.git
+[submodule "LATEST/BswAUTOSAR_McAL_Port"]
+	path = LATEST/BswAUTOSAR_McAL_Port
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Port.git
+[submodule "LATEST/BswAUTOSAR_McAL_Pwm"]
+	path = LATEST/BswAUTOSAR_McAL_Pwm
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Pwm.git
+[submodule "LATEST/BswAUTOSAR_McAL_Spi"]
+	path = LATEST/BswAUTOSAR_McAL_Spi
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Spi.git
+[submodule "LATEST/BswAUTOSAR_McAL_Wdg"]
+	path = LATEST/BswAUTOSAR_McAL_Wdg
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Wdg.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_CanIf"]
+	path = LATEST/BswAUTOSAR_EcuAb_CanIf
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_CanIf.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_CryIf"]
+	path = LATEST/BswAUTOSAR_EcuAb_CryIf
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_CryIf.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_Ea"]
+	path = LATEST/BswAUTOSAR_EcuAb_Ea
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_Ea.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_EthIf"]
+	path = LATEST/BswAUTOSAR_EcuAb_EthIf
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_EthIf.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_Fee"]
+	path = LATEST/BswAUTOSAR_EcuAb_Fee
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_Fee.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_FrIf"]
+	path = LATEST/BswAUTOSAR_EcuAb_FrIf
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_FrIf.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_LinIf"]
+	path = LATEST/BswAUTOSAR_EcuAb_LinIf
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_LinIf.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_LinTp"]
+	path = LATEST/BswAUTOSAR_EcuAb_LinTp
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_LinTp.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_MemIf"]
+	path = LATEST/BswAUTOSAR_EcuAb_MemIf
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_MemIf.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_WdgIf"]
+	path = LATEST/BswAUTOSAR_EcuAb_WdgIf
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_WdgIf.git
