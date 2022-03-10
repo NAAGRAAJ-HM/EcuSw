@@ -151,3 +151,9 @@
 [submodule "LATEST/BswAUTOSAR_EcuAb_WdgIf"]
 	path = LATEST/BswAUTOSAR_EcuAb_WdgIf
 	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_WdgIf.git
+[submodule "LATEST/common"]
+	path = LATEST/common
+	url = git@github.com:NAAGRAAJ-HM/common.git
+[submodule "LATEST/Compiler_Abstraction_GNU"]
+	path = LATEST/Compiler_Abstraction_GNU
+	url = git@github.com:NAAGRAAJ-HM/Compiler_Abstraction_GNU.git

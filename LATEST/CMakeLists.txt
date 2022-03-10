@@ -76,7 +76,7 @@ add_executable(
 target_include_directories(
    EcuSw.out PUBLIC
    "${PROJECT_SOURCE_DIR}/common/LATEST"
-   "${PROJECT_SOURCE_DIR}/common/LATEST/Compiler_Abstraction_GNU/LATEST"
+   "${PROJECT_SOURCE_DIR}/Compiler_Abstraction_GNU/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_CanIf/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_CryIf/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_Ea/LATEST"
