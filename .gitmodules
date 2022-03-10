@@ -70,9 +70,6 @@
 [submodule "LATEST/SwcServiceOs"]
 	path = LATEST/SwcServiceOs
 	url = git@github.com:NAAGRAAJ-HM/SwcServiceOs.git
-[submodule "LATEST/common"]
-	path = LATEST/common
-	url = git@github.com:NAAGRAAJ-HM/common.git
 [submodule "LATEST/BswAUTOSAR_McAL_Adc"]
 	path = LATEST/BswAUTOSAR_McAL_Adc
 	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_McAL_Adc.git
