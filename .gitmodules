@@ -157,3 +157,6 @@
 [submodule "LATEST/Compiler_Abstraction_GNU"]
 	path = LATEST/Compiler_Abstraction_GNU
 	url = git@github.com:NAAGRAAJ-HM/Compiler_Abstraction_GNU.git
+[submodule "LATEST/BswAUTOSAR_Cfg_Gen"]
+	path = LATEST/BswAUTOSAR_Cfg_Gen
+	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Cfg_Gen.git
