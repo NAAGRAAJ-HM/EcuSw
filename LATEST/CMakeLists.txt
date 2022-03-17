@@ -20,6 +20,52 @@ add_definitions(
 
 add_executable(
    EcuSw.out
+   BswAUTOSAR_Cfg_Gen/LATEST/Adc_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/BswM_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/CanIf_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Can_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/ComM_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Com_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/CryIf_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Cry_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Csm_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Dcm_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Dem_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Det_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Dio_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Ea_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/EcuM_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Eep_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/EthIf_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Eth_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Fee_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/FiM_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Fls_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/FrIf_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Fr_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Gpt_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Icu_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/LinIf_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/LinTp_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Lin_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Mcu_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/MemIf_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Nm_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/NvM_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Ocu_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Os_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/PduR_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Port_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Pwm_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/SchM_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/SecOC_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/SokFm_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Spi_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/StbM_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Vkms_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/WdgIf_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/WdgM_PBcfg.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/Wdg_PBcfg.cpp
    BswAUTOSAR_EcuAb_CanIf/LATEST/CanIf.cpp
    BswAUTOSAR_EcuAb_CryIf/LATEST/CryIf.cpp
    BswAUTOSAR_EcuAb_Ea/LATEST/Ea.cpp
@@ -77,6 +123,7 @@ target_include_directories(
    EcuSw.out PUBLIC
    "${PROJECT_SOURCE_DIR}/common/LATEST"
    "${PROJECT_SOURCE_DIR}/Compiler_Abstraction_GNU/LATEST"
+   "${PROJECT_SOURCE_DIR}/BswAUTOSAR_Cfg_Gen/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_CanIf/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_CryIf/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_Ea/LATEST"
