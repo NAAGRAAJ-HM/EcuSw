@@ -62,6 +62,7 @@ add_executable(
    BswAUTOSAR_Cfg_Gen/LATEST/CfgSokFm.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgSpi.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgStbM.cpp
+   BswAUTOSAR_Cfg_Gen/LATEST/CfgStartUp.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgVkms.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgWdgIf.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgWdgM.cpp
