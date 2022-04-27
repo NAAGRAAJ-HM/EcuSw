@@ -18,6 +18,7 @@ add_definitions(
    -Wuninitialized
 )
 
+
 add_executable(
    EcuSw.out
    BswAUTOSAR_Cfg_Gen/LATEST/CfgAdc.cpp
