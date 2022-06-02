@@ -124,6 +124,9 @@
 [submodule "LATEST/BswAUTOSAR_EcuAb_CanIf"]
 	path = LATEST/BswAUTOSAR_EcuAb_CanIf
 	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_CanIf.git
+[submodule "LATEST/BswAUTOSAR_EcuAb_CanTp"]
+	path = LATEST/BswAUTOSAR_EcuAb_CanTp
+	url = git@github.com/NAAGRAAJ-HM/BswAUTOSAR_EcuAb_CanTp.git
 [submodule "LATEST/BswAUTOSAR_EcuAb_CryIf"]
 	path = LATEST/BswAUTOSAR_EcuAb_CryIf
 	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_EcuAb_CryIf.git
@@ -160,9 +163,3 @@
 [submodule "LATEST/BswAUTOSAR_Cfg_Gen"]
 	path = LATEST/BswAUTOSAR_Cfg_Gen
 	url = git@github.com:NAAGRAAJ-HM/BswAUTOSAR_Cfg_Gen.git
-[submodule "BswAUTOSAR_EcuAb_CanTp"]
-	path = BswAUTOSAR_EcuAb_CanTp
-	url = https://github.com/NAAGRAAJ-HM/BswAUTOSAR_EcuAb_CanTp.git
-[submodule "LATEST/BswAUTOSAR_EcuAb_CanTp"]
-	path = LATEST/BswAUTOSAR_EcuAb_CanTp
-	url = https://github.com/NAAGRAAJ-HM/BswAUTOSAR_EcuAb_CanTp.git
