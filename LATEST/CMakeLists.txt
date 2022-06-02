@@ -24,6 +24,7 @@ add_executable(
    BswAUTOSAR_Cfg_Gen/LATEST/CfgAdc.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgBswM.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgCanIf.cpp
+#  BswAUTOSAR_Cfg_Gen/LATEST/CfgCanTp.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgCan.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgComM.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgCom.cpp
@@ -69,6 +70,7 @@ add_executable(
    BswAUTOSAR_Cfg_Gen/LATEST/CfgWdgM.cpp
    BswAUTOSAR_Cfg_Gen/LATEST/CfgWdg.cpp
    BswAUTOSAR_EcuAb_CanIf/LATEST/CanIf.cpp
+#  BswAUTOSAR_EcuAb_CanTp/LATEST/CanTp.cpp
    BswAUTOSAR_EcuAb_CryIf/LATEST/CryIf.cpp
    BswAUTOSAR_EcuAb_Ea/LATEST/Ea.cpp
    BswAUTOSAR_EcuAb_EthIf/LATEST/EthIf.cpp
@@ -127,6 +129,7 @@ target_include_directories(
    "${PROJECT_SOURCE_DIR}/Compiler_Abstraction_GNU/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_Cfg_Gen/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_CanIf/LATEST"
+#  "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_CanTp/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_CryIf/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_Ea/LATEST"
    "${PROJECT_SOURCE_DIR}/BswAUTOSAR_EcuAb_EthIf/LATEST"
